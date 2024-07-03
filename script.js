@@ -49,18 +49,6 @@ function fetchData() {
             });
             thumbnailsContainer.appendChild(img);
         });
-        // const thumbnailsContainer = document.querySelector(".thumbnails");
-        // thumbnailsContainer.innerHTML = "";
-        // productData.images.forEach((image) => {
-        //   const img = document.createElement("img");
-        //   img.src = image.src;
-        //   img.alt = "Thumbnail";
-        //   img.classList.add("thumbnail");
-        //   img.addEventListener("click", () => {
-        //     document.getElementById("main-product-image").src = "./images";
-        //   });
-        //   thumbnailsContainer.appendChild(img);
-        // });
   
         function populateColorOptions() {
           const colorContainer = document.querySelector(".c-container");
