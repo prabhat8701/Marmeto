@@ -8,7 +8,6 @@ Welcome to the Product Details Page project! This repository contains the source
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Deployment](#deployment)
 
 ## Description
@@ -25,7 +24,7 @@ The project consists of an HTML file (`index.html`), a CSS file (`index.css`), a
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/prabhat8701/Marmeto.git
 
 
 ## Usage
@@ -36,4 +35,4 @@ The project consists of an HTML file (`index.html`), a CSS file (`index.css`), a
 
 ## Deployment
 
-The project is deployed on Netlify. You can view it at the following link: [].
+The project is deployed on Netlify. You can view it at the following link: [https://marmeto-coding.vercel.app/].
